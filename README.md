@@ -2,7 +2,7 @@
 
 ###
 
-<p>Hi, I’m Antoinette Cabang, a frontend developer with a strong passion for combining design and code to create user-friendly and visually engaging web experiences.</p>
+<p>Hi, I’m N, a frontend developer with a strong passion for combining design and code to create user-friendly and visually engaging web experiences.</p>
 
 
 
